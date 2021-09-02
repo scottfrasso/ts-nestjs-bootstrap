@@ -9,7 +9,7 @@ Here I used NestJS and added some things to make it a template repository that I
 Thnings that make this different than the vanilla NestJS bootstrap repo:
 
 * Background jobs via CLI
-* --A database with companies/users/settings with migrations written to support it--
+* ~~A database with companies/users/settings with migrations written to support it~~
 
 This repository originally came from [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
