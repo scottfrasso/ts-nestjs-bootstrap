@@ -1,6 +1,6 @@
 
 # Build status:
-[![<scottfrasso>](https://circleci.com/github/scottfrasso/ts-nestjs-bootstrap.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/scottfrasso/ts-nestjs-bootstrap/tree/master.svg?style=svg&circle-token=3d388369ed08228fa2a9ae6b9bef131bfd5a6b50)](https://circleci.com/gh/scottfrasso/ts-nestjs-bootstrap/tree/master)
 
 ## Description
 
